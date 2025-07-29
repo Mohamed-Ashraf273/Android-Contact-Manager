@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string name="welcome_message">Welcome to MainActivity!</string>
+    <string name="Go_to_SecondActivity">Go to SecondActivity</string>
+    <string name="Second_Activity">You are now in SecondActivity!</string>
+    <string name="Back_To_Main">Back to MainActivity</string>
+    <string name="contact_name">Mohamed Ashraf</string>
+    <string name="contact_notes_hint">Enter notes here:</string>
+    <string name="save_contact">Save Contact</string>
+
+</resources>
